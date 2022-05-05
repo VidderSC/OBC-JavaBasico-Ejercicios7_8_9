@@ -43,7 +43,7 @@ public class Ejercicio10 {
             3. Imprime los nombres y las edades por pantalla.
             4. lee e imprime por pantalla un archivo de texto.
             5. Añade al final del archivo de texto del punto 4 los nombres y las edades.
-            6. Imprime el archivo final.
+            6. Imprime por pantalla el archivo final.
             0. Salir.
             
             Introduce tu opción (0-6): """);
@@ -172,8 +172,8 @@ public class Ejercicio10 {
         contador[index] = cont;
         // Opción 1, que continue pero que avise que se van a sobreescribir los datos
         // Opción 2, que compruebe primero que 1 haya sido introducido.
-        // Opción 3, que compruebe primero que 1 Y 2 han sido ya introducidos
-        // Opción 4, que continue.
+        // Opción 3, que compruebe primero que 1 y 2 han sido ya introducidos
+        // Opción 4 y 6, que continue.
         // Opción 5, las opciones 1, 2 Y 4 han tenido que ser introducidas previamente.
         switch (o){
             case 1:
@@ -216,5 +216,5 @@ public class Ejercicio10 {
         }
         return false;
     }
-
+                                     
 }
