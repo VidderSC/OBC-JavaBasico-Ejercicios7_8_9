@@ -37,3 +37,6 @@ Finalmente, mostraremos en cualquier caso: "Demo de código".
 9 - Utilizando InputStream y PrintStream, crea una función que reciba dos parámetros:
 "fileIn" y "fileOut". La tarea de la función será realizar la copia del fichero
 dado en el parámetro "fileIn" al fichero dado en "fileOut".
+
+10 - Sorpréndenos creando un programa de tu elección que utilice InputStream,
+PrintStream, excepciones, un HashMap y un ArrayList, LinkedList o array.
